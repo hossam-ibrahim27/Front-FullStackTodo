@@ -10,5 +10,5 @@ The application is built with React (TypeScript), styled with TailwindCSS, and i
 ---
 
 ## Demo
-View in Varcel : https://front-full-stack-todo.vercel.app/
-View in Netilfy : https://full-stack-zonetodo.netlify.app/
+### View in Varcel : https://front-full-stack-todo.vercel.app/
+### View in Netilfy : https://full-stack-zonetodo.netlify.app/
